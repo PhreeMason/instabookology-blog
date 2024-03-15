@@ -20,7 +20,7 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | My awesome blog</title>
+        <title>{post.title} | Instabookology</title>
       </Head>
 
       {router.isFallback ? (
