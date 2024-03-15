@@ -15,9 +15,9 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
-          content="Clone and deploy your own Next.js portfolio in minutes."
+          content="Instabookology blog is for top book recommendations, concise summaries, and thoughtful reviews to find your next favorite read."
         />
-        <title>My awesome blog</title>
+        <title>Instabookology blog</title>
       </Head>
 
       <Header />
