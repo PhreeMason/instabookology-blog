@@ -4,8 +4,6 @@ excerpt: "Have you ever picked up a book that just screams 'read me in one sitti
 date: "2021-01-22"
 ---
 
-# "The Surrogate" by Penelope Ward: A Must-Read
-
 Have you ever picked up a book that just screams 'read me in one sitting'? That's **"The Surrogate" by Penelope Ward** for you.
 
 ## When Life Throws You a Curveball
