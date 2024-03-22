@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: "Never Too Late" by Danielle Steel'
-excerpt: "Ever caught yourself wondering if it's too late for a fresh start? \"Never Too Late\" is here to assure you, with open arms and a warm smile, that the answer is a resounding no. Let's go into what makes this book a cozy, yet somewhat predictable read."
+excerpt: "Ever caught yourself wondering if it's too late for a fresh start? \"Never Too Late\" is here to assure you, with open arms and a warm smile, that the answer is a resounding no."
 date: "2024-03-20"
 category: "book-review"
 genres: ['contemporary-romance']
