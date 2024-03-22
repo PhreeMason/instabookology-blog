@@ -1,6 +1,6 @@
 ---
 title: 'Book Review: "The Surrogate" by Penelope Ward'
-excerpt: "Have you ever picked up a book that just screams 'read me in one sitting'? That's The Surrogate by Penelope Ward for you."
+excerpt: "Have you ever picked up a book that just screams \"read me in one sitting\"? That's \"The Surrogate\" by Penelope Ward for you."
 date: "2024-03-21"
 category: "book-review"
 genres: ["contemporary-romance"]
