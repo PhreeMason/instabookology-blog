@@ -1,7 +1,7 @@
 ---
 
 title: "Book Review: \"I'm Glad My Mom Died\" by Jennette McCurdy"
-excerpt: "Have you ever wondered what it's like to be a child actor on a popular TV show? The book gives readers an inside look at the challenges Jennette McCurdy faced growing up in the spotlight."
+excerpt: "Have you ever wondered what it's like to be a child actor on a popular TV show? The book gives readers an inside look at the challenges Jennette McCurdy faced while growing up in the spotlight."
 date: "2023-10-20"
 category: "book-review"
 genres: ['nonfiction', 'memoir']
