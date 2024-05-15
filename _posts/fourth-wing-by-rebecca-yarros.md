@@ -1,7 +1,7 @@
 ---
 
 title: 'Book Review: "Fourth Wing" (The Empyrean, #1) by Rebecca Yarros'
-excerpt: "Have you ever picked up a book that everyone seems to be raving about, wondering what all the fuss is about? Well, that's exactly how I felt when I dived into \"Fourth Wing\" by Rebecca Yarros. This book took me on a ride through a fantastical world filled with dragons, romance, and a whole lot of \"expected\" twists and turns."
+excerpt: "Have you ever picked up a book that everyone seems to be raving about, wondering what all the fuss is about? Well, that's exactly how I felt when I dived into \"Fourth Wing\" by Rebecca Yarros. This book took me on a ride through a fantastical world filled with dragons, romance, and a whole lot of *expected* twists and turns."
 date: "2023-09-08"
 category: "book-review"
 genres: ['romantasy']
