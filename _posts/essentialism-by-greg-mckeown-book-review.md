@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['nonfiction', 'self-help']
 rating: "5-star"
 author: "greg-mckeown"
-tropes: []
+tropes: ['less-but-better', 'the-paradox-of-choice', 'trade-offs', 'clarity-of-purpose']
 
 ---
 
