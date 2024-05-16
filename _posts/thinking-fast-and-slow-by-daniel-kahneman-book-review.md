@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['nonfiction', 'psychology']
 rating: "4-star"
 author: "daniel-kahneman"
-tropes: ['cognitive-biases']
+tropes: ['cognitive-biases', 'subjectivity-vs-objectivity', 'prospect-theory', 'emotional-influence-on-decisions']
 
 ---
 
