@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['nonfiction', 'self-help']
 rating: "3-star"
 author: "david-brooks"
-tropes: ['personal-growth']
+tropes: ['personal-growth', 'practical-tools-for-connection']
 
 ---
 
