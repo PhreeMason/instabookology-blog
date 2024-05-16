@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['nonfiction', 'psychology']
 rating: "2-star"
 author: "jonice-webb"
-tropes: []
+tropes: ['autopilot-mode', 'parental-blindness', 'mislabeling-emotional-states', 'invisibility-of-emotional-needs']
 
 ---
 
