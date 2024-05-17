@@ -8,6 +8,7 @@ genres: ['romantasy']
 rating: "5-star"
 author: "rebecca-yarros"
 tropes: ['enemies-to-lovers', 'found-family', 'political-intrigue', 'dragons']
+series: "the-empyrean"
 
 ---
 
