@@ -8,6 +8,7 @@ genres: ['crime-fiction', 'whodunuit']
 rating: "3-star"
 author: "james-patterson"
 tropes: [fast-paced]
+series: "holmes-margaret-and-poe"
 
 ---
 
