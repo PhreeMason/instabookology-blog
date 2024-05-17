@@ -8,6 +8,7 @@ genres: ['romantasy']
 rating: "5-star"
 author: "rebecca-yarros"
 tropes: ['found-family', 'enemies-to-lovers', 'touch-her-and-you-die', 'morally-gray-mmc', 'slow-burn', 'forced-proximity']
+series: "the-empyrean"
 
 ---
 
