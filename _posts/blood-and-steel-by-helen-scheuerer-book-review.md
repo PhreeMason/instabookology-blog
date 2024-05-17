@@ -1,6 +1,6 @@
 ---
 
-title: "Book Review: \"Blood & Steel\" by Helen Scheuerer"
+title: "Book Review: \"Blood & Steel\" (The Legends of Thezmarr, #1) by Helen Scheuerer"
 excerpt: "Have you ever wondered what it would be like to know the exact age you'll die? To carry the weight of that knowledge, yet still strive to achieve your dreams?"
 date: "2023-12-30"
 category: "book-review"
