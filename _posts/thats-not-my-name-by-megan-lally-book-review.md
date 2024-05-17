@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['young-adult', 'thriller', 'mystery', 'suspense', 'coming-of-age']
 rating: "5-star"
 author: "megan-lally"
-tropes: ['amnesia', 'mistaken-identity', 'missing-person', 'dual-pov', 'small-town']
+tropes: ['amnesia', 'mistaken-identity', 'missing-person', 'dual-pov', 'isolated-location']
 
 ---
 
@@ -17,7 +17,7 @@ tropes: ['amnesia', 'mistaken-identity', 'missing-person', 'dual-pov', 'small-to
 📍 Mistaken Identity  
 📍 Missing Person  
 📍 Dual POV  
-📍 Small Town  
+📍 Isolated Location  
   
 
 ## A Shiver-Inducing Start
