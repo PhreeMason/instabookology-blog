@@ -8,6 +8,7 @@ genres: ['romantic-suspense']
 rating: "2-star"
 author: "jayne-ann-krentz"
 tropes: ['amnesia', 'paranormal', 'unlikely-allies', 'isolated-location']
+series: "the-lost-night-files"
 
 ---
 
