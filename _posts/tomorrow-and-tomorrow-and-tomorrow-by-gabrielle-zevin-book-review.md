@@ -1,7 +1,7 @@
 ---
 
 title: "Book Review: \"Tomorrow, and Tomorrow, and Tomorrow\" by Gabrielle Zevin"
-excerpt: "Ever wondered what it's like to live a life intertwined with the pixels and narratives of video games? This is a portal into the lives of two individuals whose existence is as vivid and complex as the games they create"
+excerpt: "Ever wondered what it's like to live a life intertwined with the pixels and narratives of video games? This is a portal into the lives of two individuals whose existence is as vivid and complex as the games they create."
 date: "2023-12-22"
 category: "book-review"
 genres: ['contemporary-fiction']
