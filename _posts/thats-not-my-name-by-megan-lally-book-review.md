@@ -1,6 +1,6 @@
 ---
 
-title: "Book Review: \"That's Not My Name\" by Magan Lally"
+title: "Book Review: \"That's Not My Name\" by Megan Lally"
 excerpt: "Ever found yourself so engrossed in a mystery that you can't help but feel the chill of the unknown creeping up your spine? Megan Lally's debut thriller, \"That's Not My Name\", does just that."
 date: "2024-01-06"
 category: "book-review"
