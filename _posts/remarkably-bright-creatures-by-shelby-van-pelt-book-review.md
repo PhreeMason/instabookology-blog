@@ -4,8 +4,7 @@ title: "Book Review: \"Remarkably Bright Creatures\" by Shelby Van Pelt"
 excerpt: "Ever thought about striking up a friendship with an octopus? Shelby Van Pelt's debut novel, \"Remarkably Bright Creatures\", invites us into just such a world."
 date: "2023-11-26"
 category: "book-review"
-genres: ['contemporary-fiction']
-subgenres: ['magical-realism', 'mystery', 'animal-fiction', 'cozy-fiction', 'literary-fiction']
+genres: ['contemporary-fiction', 'magical-realism', 'mystery', 'animal-fiction', 'cozy-fiction', 'literary-fiction']
 rating: "5-star"
 author: "shelby-van-pelt"
 tropes: ['unlikely-friendship', 'grief-and-healing', 'magical-realism', 'small-town', 'redemption', 'second-chance', 'loneliness']
