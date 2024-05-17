@@ -8,6 +8,7 @@ genres: ['romantasy']
 rating: "5-star"
 author: "helen-scheuerer"
 tropes: ['enemies-to-lovers', 'one-horse', 'found-family', 'slow-burn']
+series: "the-legends-of-thezmarr"
 
 ---
 
