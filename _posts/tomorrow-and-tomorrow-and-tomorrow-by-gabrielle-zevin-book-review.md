@@ -12,7 +12,7 @@ tropes: ['second-person-pov', 'biracial', 'disability']
 ---
 
 
-📍 Contemporary Fiction 
+📍 Contemporary Fiction  
 📍 Second-person POV  
 📍 Biracial MMC  
 📍 Disability Rep 
