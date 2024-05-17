@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['romantic-suspense']
 rating: "2-star"
 author: "jayne-ann-krentz"
-tropes: ['romantic-suspense', 'amnesia', 'paranormal', 'unlikely-allies', 'isolated-location']
+tropes: ['amnesia', 'paranormal', 'unlikely-allies', 'isolated-location']
 
 ---
 
