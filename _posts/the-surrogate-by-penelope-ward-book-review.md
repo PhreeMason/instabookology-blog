@@ -6,7 +6,16 @@ category: "book-review"
 genres: ["contemporary-romance"]
 rating: "5-star"
 author: "penelope-ward"
+tropes: ['age-gap', 'widower', 'found-family', 'forbidden-romance', 'enemies-to-friends-to-lovers']
 ---
+
+📍 Contemporary Romance  
+📍 Age Gap  
+📍 Widower  
+📍 Found Family  
+📍 Forbidden Romance  
+📍 Enemies to Friends to Lovers  
+
 
 ## When Life Throws You a Curveball
 Picture this: Abby, our American heroine, becomes a surrogate for Sig, a British widower still haunted by the loss of his wife. Sounds like a recipe for drama, right?
