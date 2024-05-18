@@ -6,8 +6,15 @@ category: "book-review"
 author: "s-t-abby"
 genres: ['dark-romance', 'thriller']
 rating: "4-star"
+tropes: ['revenge-plot', 'hidden-identity', 'opposites-attract', 'strong-female-lead']
 series: "mindf*ck"
 ---
+
+📍 Dark Romantic Thriller  
+📍 Revenge Plot  
+📍 Hidden Identity  
+📍 Opposites Attract  
+📍 Strong Female Lead  
 
 ## Lana: A Heroine of Shades
 Lana is fierce, flawed, and on a quest for vengeance that's both horrifying and strangely justified. Her strength and vulnerability are what set her apart, making her a heroine I found myself cheering for, even when I know I probably shouldn't.
