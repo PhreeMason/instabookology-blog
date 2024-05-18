@@ -8,6 +8,7 @@ genres: ['romantasy']
 rating: "3-star"
 author: "helen-scheuerer"
 tropes: ['found-family', 'forbidden-love', 'brooding-hero', 'enemies-to-lovers']
+series: "the-legends-of-thezmarr"
 
 ---
 
