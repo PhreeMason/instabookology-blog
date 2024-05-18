@@ -6,7 +6,14 @@ category: "book-review"
 genres: ['business']
 rating: "3-star"
 author: "kurt-wagner"
+tropes: []
 ---
+
+📍 Nonfiction - Business  
+📍 Corporate Power Struggle  
+📍 Billionaire's Playground  
+📍 Tech Takeover Drama  
+📍 Corporate Chaos  
 
 ## Characters Larger Than 280 Characters
 Wagner chronicles the high-stakes struggle for control of Twitter, detailing the $44 billion fight between Jack Dorsey and Elon Musk. The book offers an in-depth look at the ambitions and egos that clashed in this Silicon Valley power struggle.
