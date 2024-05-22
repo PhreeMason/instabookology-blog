@@ -7,7 +7,7 @@ category: "book-review"
 genres: ['nonfiction', 'memoir']
 rating: "5-star"
 author: "jennette-mccurdy"
-tropes: ['coming-of-age', 'toxic-parenting', 'the-burden-of-fame', 'mental-health-struggles']
+tropes: ['coming-of-age', 'toxic-parenting', 'the-burden-of-fame', 'mental-health']
 
 ---
 
