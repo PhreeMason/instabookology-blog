@@ -9,11 +9,11 @@ author: "bonnie-wan"
 tropes: ['self-discovery', 'practical-exercises']
 ---
 
-📍 Nonfiction - Self-Help
-📍 Self-Discovery and Clarity
-📍 Action-Oriented Steps
-📍 Practical Exercises and Prompts
-📍 Personal Anecdotes
+📍 Nonfiction - Self-Help  
+📍 Self-Discovery and Clarity  
+📍 Action-Oriented Steps  
+📍 Practical Exercises and Prompts  
+📍 Personal Anecdotes  
 
 ## The Core Practice
 The book is structured around three phases: "Get Messy," where you confront limiting beliefs; "Get Clear," focusing on identifying true desires; and "Get Active," which is about turning those desires into actions.
