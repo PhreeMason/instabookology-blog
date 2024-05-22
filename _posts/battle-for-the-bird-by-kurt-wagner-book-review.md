@@ -3,7 +3,7 @@ title: 'Book Review: "Battle for the Bird" by Kurt Wagner'
 excerpt: "Ever wondered what it's like to be a fly on the wall during one of the most tumultuous tech takeovers in recent history? \"Battle for the Bird\" by Kurt Wagner is a front-row ticket to the showdown between tech titans."
 date: "2024-03-22"
 category: "book-review"
-genres: ['business']
+genres: ['nonfiction', 'business']
 rating: "3-star"
 author: "kurt-wagner"
 tropes: []
