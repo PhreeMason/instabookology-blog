@@ -6,7 +6,14 @@ category: "book-review"
 genres: ['contemporary-romance']
 rating: "3-star"
 author: "danielle-steel"
+tropes: ['age-gap', 'family-saga', 'second-chances']
 ---
+
+📍 Contemporary Romance  
+📍 Age Gap  
+📍 Family Saga  
+📍 Second Chances  
+📍 Enduring Power of Love  
 
 ## The Premise: A Widow's New Chapter
 *Never Too Late* introduces us to Kezia Cooper Hobson, a recently widowed woman who decides it's time to turn the page and start a new chapter in her life. Moving from San Francisco to New York, Kezia is determined to embrace change and rediscover herself. And, as fate would have it, her new apartment comes with a movie-star neighbor, Sam Stewart. Just when Kezia thinks she's settling in, a devastating crisis strikes New York City, bringing her and Sam closer together. Sounds like the perfect setup, right?
