@@ -3,10 +3,17 @@ title: 'Book Review: "The Women" by Kristin Hannah'
 excerpt: "Ever picked up a book that you just couldn't put down, not because it was a light read, but because it was so deeply moving? That was my experience with Kristin Hannah's \"The Women\"."
 date: "2024-03-18"
 category: "book-review"
-genres: ['historical-fiction']
+genres: ['historical-fiction', 'vietnam-war']
 rating: "5-star"
 author: "kristin-hannah"
+tropes: ['love-triangle', 'forbidden-romance', 'female-empowerment', 'mental-health']
 ---
+
+📍 Historical Fiction - Vietnam War  
+📍 Love Triangle  
+📍 Forbidden Romance  
+📍 Female Empowerment  
+📍 Mental Health Rep  
 
 ## The Essence of the Story
 *The Women* introduces us to Frances "Frankie" McGrath, a nursing student whose life takes a dramatic turn when she enlists in the Army Nurse Corps during the Vietnam War. Coming from a sheltered background, Frankie's decision marks the beginning of a transformative journey. This book isn't just about war; it's about courage, friendship, and standing up for what you believe in, even when the world seems against you.
