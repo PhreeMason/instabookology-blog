@@ -3,10 +3,17 @@ title: 'Book Review: "The Life Brief" by Bonnie Wan'
 excerpt: "Ever wonder if there's a method to the madness of life? \"The Life Brief\" by Bonnie Wan is a three-part practice designed to help you navigate through the clutter of your daily grind and focus on what truly matters."
 date: "2024-02-29"
 category: "book-review"
-genres: ['self-help']
+genres: ['nonfiction', 'self-help']
 rating: "3-star"
 author: "bonnie-wan"
+tropes: ['self-discovery', 'practical-exercises']
 ---
+
+📍 Nonfiction - Self-Help
+📍 Self-Discovery and Clarity
+📍 Action-Oriented Steps
+📍 Practical Exercises and Prompts
+📍 Personal Anecdotes
 
 ## The Core Practice
 The book is structured around three phases: "Get Messy," where you confront limiting beliefs; "Get Clear," focusing on identifying true desires; and "Get Active," which is about turning those desires into actions.
