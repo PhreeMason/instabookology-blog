@@ -7,6 +7,7 @@ genres: ["romantic-comedy"]
 rating: "4-star"
 author: "abby-jimenez"
 tropes: ['meet-cute', 'epistolary', 'enemies-to-lovers']
+series: "the-improbable-meet-cute"
 ---
 
 📍 Romantic Comedy  
