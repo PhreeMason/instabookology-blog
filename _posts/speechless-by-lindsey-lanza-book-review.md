@@ -7,10 +7,9 @@ category: "book-review"
 genres: ['contemporary-romance']
 rating: "4-star"
 author: "lindsey-lanza"
-tropes: ['disability', 'found-family', 'second-chance']
+tropes: ['disability', 'found-family', 'second-chance', 'mental-health', 'chronic-illness']
 
 ---
-
 
 📍 Contemporary Romance  
 📍 Overcoming Insecurities  
@@ -18,7 +17,6 @@ tropes: ['disability', 'found-family', 'second-chance']
 📍 Found Family  
 📍 Second Chance  
   
-
 ## A Fresh Start in Malibu
 Imagine this: you're bestselling author Lucy Gold, fairy tales are your bread and butter, but your own happily ever after? Not so much. After a sudden divorce shatters her dreams on the eve of her thirtieth birthday, Lucy, along with her loyal service dog, decides it's time for a change. Destination? The sunny shores of Los Angeles for a fresh start. But as fate would have it, her plans hit a snag right before takeoff. Enter Henry Turner, a handsome stranger with a heart of gold and a house full of eccentric musicians in Malibu. Sounds like the beginning of a fairy tale, right?
 
