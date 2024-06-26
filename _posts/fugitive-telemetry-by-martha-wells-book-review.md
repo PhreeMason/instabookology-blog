@@ -17,10 +17,10 @@ series: "the-murderbot-diaries"
 📍 Corporate Conspiracy  
 
 ## A Whodunit with a Twist
-Fugitive Telemetry is a classic whodunit mystery with a sci-fi twist. Murderbot teams up with the station's security, trading snarky remarks as they clash personalities and perspectives. It's an entertaining read featuring an amateur sleuth.
+*Fugitive Telemetry* is a classic whodunit mystery with a sci-fi twist. Murderbot teams up with the station's security, trading snarky remarks as they clash personalities and perspectives. It's an entertaining read featuring an amateur sleuth.
 
 ## Snark and Substance
 While the mystery is engaging, it's Murderbot's signature snark that truly stands out. Wells combines wit with vulnerability, as Murderbot grapples with existential questions of identity and purpose.
 
 ## The Verdict
-<i>Fugitive Telemetry</i> may not be the strongest Murderbot Diaries entry, but it's still enjoyable. The mystery kept me guessing, the action kept me engaged, and Murderbot's commentary kept me chuckling. It’s a nice palate cleanser reminding us why we love this hero.
+*Fugitive Telemetry* may not be the strongest Murderbot Diaries entry, but it's still enjoyable. The mystery kept me guessing, the action kept me engaged, and Murderbot's commentary kept me chuckling. It’s a nice palate cleanser reminding us why we love this hero.
